@@ -1,6 +1,6 @@
 ### Oi, meu nome é Felipe
 
-:office: : Estagiario Saks
+:office: : Engenheiro de Software
 
 :school: : Engenharia da Computação - Univali
 
